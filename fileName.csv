@@ -1,0 +1,5 @@
+sep = ;
+firstName,lastName, reason,Departement ,Date-visite;
+
+Abd-el,Lefebvre,visite, Fri Oct 13 16:19:53 CEST 2023;
+Abbée,Lefevre,visite, Thu Dec 21 23:41:44 CET 2023;
